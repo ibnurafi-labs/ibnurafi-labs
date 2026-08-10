@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ## ![ibnu rafi](img/github-header-banner%20(1).png)
 
 
+=======
+## Hello World! I'm Ibnu Rafi👋
+>>>>>>> 27c41a88a1951fca8bc8adea78970af9e56bb603
 
 
 <!--
