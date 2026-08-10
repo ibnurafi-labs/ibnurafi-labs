@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello World! I'm Ibnu Rafi👋
+
 
 <!--
 **ibnurafi-labs/ibnurafi-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning javascript😊
+
+![pixel](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o3MHFsMzFjZTVrMzY1Y2UzYzhod3N3Y2hkaWd4bnU4MTlpejI4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif)
+
